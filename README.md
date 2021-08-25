@@ -9,6 +9,15 @@
 ### 中间件
 * [Polly](https://github.com/App-vNext/Polly)
 > Polly 是一个 .NET 弹性和瞬态故障处理库，允许开发人员以流畅和线程安全的方式表达重试、断路器、超时、隔板隔离和回退等策略。从 6.0.1 版开始，Polly 面向 .NET Standard 1.1 和 2.0+
+* [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit)
+> ASP.NET Core 限速中间件
+* [Swagger]()
+> 接口API文档
+* [MiniProfiler]()
+> 接口性能分析
+* [Automapper]()
+> 对象关系映射
+
 
 ### 认证授权
 * [IdentityServer4]()
