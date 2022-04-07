@@ -1,5 +1,5 @@
 # YyFlight.Core
-基于.NET 5 的快速开发框架，持续开发中......
+🚀基于ASP.NET Core 6和ABP Framework（ABP VNext ）搭建的简洁快速开发框架，集成通用RBAC权限管理、统一认证授权、JWT、数据仓储、配置中心、日志系统、ELK等相关功能。
 
 # 相关技术栈
 ## 技术栈
@@ -42,6 +42,4 @@
 
 ## 参考框架
 * [ABP vNext](https://blog.abp.io/abp/Abp-vNext-Announcement)
-* [Blog.Core](http://apk.neters.club/.doc/)
-
 
