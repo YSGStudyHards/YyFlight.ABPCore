@@ -1,24 +1,27 @@
 # YyFlight.Core
 🚀基于ASP.NET Core 6和ABP Framework（ABP VNext ）搭建的简洁快速开发框架，集成通用RBAC权限管理、统一认证授权、JWT、数据仓储、配置中心、日志系统、ELK等相关功能。
 
-后端相关技术栈
-ASP.NET Core
-为什么选择ASP.NET Core？
+# 后端相关技术栈
+## ASP.NET Core
 
-aspnetcore源码
+* [为什么选择ASP.NET Core？](https://docs.microsoft.com/zh-cn/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0#why-choose-aspnet-core)
+* [aspnetcore源码](https://github.com/dotnet/aspnetcore)
 
-　　首先请你不要再停留在ASP.NET 4.x时代了，不要一听到.NET就是性能不行、不能跨平台、拖控件等等各种诟病。首先ASP.NET Core是对 ASP.NET 4.x 的重新设计（包括体系结构上的更改），是一个跨平台的高性能、精简、模块化、更支持云原生的开源框架。
+> 首先请你不要再停留在ASP.NET 4.x时代了，不要一听到.NET就是性能不行、不能跨平台、拖控件等等各种诟病。首先ASP.NET Core是对 ASP.NET 4.x 的重新设计（包括体系结构上的更改），是一个跨平台的高性能、精简、模块化、更支持云原生的开源框架。
 
-ABP框架介绍
-ABP框架源码
 
-ABP框架在线文档
+## ABP框架介绍
 
-　　看到标题很多人会说为什么要不直接使用.NET Core开发小程序后台框架呢？而是选择使用ABP呢？
+* [ABP框架源码](https://github.com/abpframework/abp)
+* [ABP框架在线文档](https://docs.abp.io/zh-Hans/abp/latest/Tutorials/Todo/Index?UI=MVC&DB=Mongo)
 
-首先ABP是基于ASP.NET Core的开源，完整且文档友好的应用程序框架，可通过遵循软件开发最佳实践和最新技术来创建现代Web应用程序和Web API。
-ABP本身是一个包含许多nuget包的模块化框架.它还提供了一个完整的基础架构来开发你自己的具有实体, 应用服务, 数据库集成, API, UI组件等等功能的应用程序模块。在实践开发中我们可以根据自己的需求，引入对应模块使用，这边告别我们应用程序的臃肿。
-ABP不仅仅是一个框架，它提供的基础设施使基于领域驱动设计（DDD）的开发更易实现。
+**看到标题很多人会说为什么要不直接使用.NET Core开发小程序后台框架呢？而是选择使用ABP呢？**
+
+* 首先ABP是基于ASP.NET Core的开源，完整且文档友好的应用程序框架，可通过遵循软件开发最佳实践和最新技术来创建现代Web应用程序和Web API。
+* ABP本身是一个包含许多nuget包的模块化框架.它还提供了一个完整的基础架构来开发你自己的具有实体, 应用服务, 数据库集成, API, UI组件等等功能的应用程序模块。在实践开发中我们可以根据自己的需求，引入对应模块使用，这边告别我们应用程序的臃肿。
+* ABP不仅仅是一个框架，它提供的基础设施使基于领域驱动设计（DDD）的开发更易实现。
+
+
 Entity Framework Core
 EF Core源码
 
