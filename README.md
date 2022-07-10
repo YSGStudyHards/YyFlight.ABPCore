@@ -73,6 +73,11 @@
 > Serilog是一个开源，简单易用.NET应用程序的诊断日志库，并且可以在所有最新的 .NET 平台上运行。支持结构化日志记录，对复杂、分布式、异步应用程序的支持非常出色。
 
 
+## FreeRedis
+* [FreeRedis源码](https://github.com/2881099/FreeRedis)
+
+> FreeRedis是基于.NET的Redis客户端（继CSRedisCore之后重写），支持 .NET Core 2.1+、.NET Framework 4.0+ 以及 Xamarin。
+
 ## AspNetCoreRateLimit
 * [AspNetCoreRateLimit源码](https://github.com/stefanprodan/AspNetCoreRateLimit)
 
@@ -119,4 +124,14 @@
 
 # 云原生部署容器
 * [Docker](https://www.docker.com/)
+
+# 其他工具
+## 接口管理工具
+* [Swagger](https://swagger.io/)
+
+## 流程图思维导图工具
+* [ProcessOn](https://www.processon.com/i/5c0db7cbe4b0c87510c69fdc)
+
+
+
 
