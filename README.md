@@ -125,6 +125,10 @@
 # 云原生部署容器
 * [Docker](https://www.docker.com/)
 
+# 服务器操作系统
+* Ubuntu 20.04 LTS
+> Ubuntu是最热门的Linux发行版之一，是一款开放源代码的免费软件，基于Debian Linux操作系统，其易用性和稳定性均非常出色，并且拥有非常强大成熟的社区资源。
+
 # 其他工具
 ## 接口管理工具
 * [Swagger](https://swagger.io/)
